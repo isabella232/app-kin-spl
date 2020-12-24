@@ -175,4 +175,4 @@ deps:
 	python3 -mpip install -r requirements.txt --require-hashes
 
 listvariants:
-	@echo VARIANTS COIN solana
+	@echo VARIANTS COIN kin
